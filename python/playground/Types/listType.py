@@ -1,8 +1,8 @@
-number = [1,2,3,4,5,6,7,8,9,10]
+number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print(number)
 print(number[6])
 
-mixed = ["apple","orange","grapes","watermelon"]
+mixed = ["apple", "orange", "grapes", "watermelon"]
 print(mixed)
 mixed[1] = 0x55
 print(mixed)

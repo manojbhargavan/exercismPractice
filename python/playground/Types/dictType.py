@@ -1,4 +1,4 @@
-#simple key value pair
+# Simple key value pair
 dictT = {10: "Manoj", 20: "Nandan"}
 print(dictT)
 print(dictT[10])
